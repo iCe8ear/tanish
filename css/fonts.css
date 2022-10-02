@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MontsR';
+    src: url('../fonts/Monts/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MontsB';
+    src: url('../fonts/Monts/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MontsL';
+    src: url('../fonts/Monts/Montserrat-Light.ttf') format('truetype');
+}
